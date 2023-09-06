@@ -48,6 +48,6 @@ This KPI measures the turnover rate of employees based on gender. High turnover 
 ![](Image/task4.png)
 
 
-![](Image/task4 part2.png)
+![Task4.2](Image/task4 part2.png)
 
 
